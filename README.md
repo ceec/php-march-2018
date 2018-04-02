@@ -28,6 +28,6 @@ Extra Credit - Make it look beautiful
 
 Extra Extra Credit - https://www.packtpub.com/books/content/anatomy-wordpress-plugin Learning about WordPress plugin structure by messing around with Hello Dolly
 
-#Homework 3
+# Homework 3
 
 1 - Create a plugin that mirrors the functionality of Homework 2
